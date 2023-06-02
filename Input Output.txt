@@ -1,0 +1,197 @@
+WELCOME TEAM
+
+You reside in a desert place, One day a new group of peoples came to visit the desert place, infront of your eyes. Two peoples comes out of the group. 
+
+They were so friendly and you just want to Welcome them to the place. Write a program to welcome those two peoples to the desert.
+
+SAMPLE OUTPUT:
+
+Hello People! Welcome to our desert.
+Code:
+
+#write your code
+print("Hello People! Welcome to our desert.")
+
+
+2.MECON LIMITED was a public sector undertaking firm under the ministry of steel where Dhoni's father had worked for. It was the stadium where MS Dhoni grew up playing.
+
+The Chairman of MECON decided to renovate and improvise the facilities in the stadium and to place a NEON display board at the entry of the stadium that carried the Stadium's name as "MECON Stadium".
+
+Write a program to display the Stadium name in different lines.
+
+Input Format:
+There is no input
+
+Output Format:
+Print the name "MECON Stadium" in different lines.
+
+SAMPLE OUTPUT:
+MECON
+Stadium
+
+code:
+#Write your code
+print("MECON\nStadium")
+
+3.You are collecting the age of each cricketers in the team. At a time, you can get only one cricketer age. So, create a program, which will get that one cricketer's age and print the age to verify.
+
+Input Format:
+Input value consists of an Integer.
+
+Output Format:
+Output value consists of an Integer.
+
+Sample Input:
+29
+
+Sample Output:
+The cricketer age is 29
+
+Code:
+a=input()
+print("The Cricketer age is",a)
+
+4.You are working as the bowling assist during the practice session before match. All the bowlers are asking the speed of the ball. So, you need to get the ball speed and print the ball speed with only 2 decimal value.
+
+Input Format:
+Input value consists of double value
+
+Output Format:
+Output value consists of double value with 2 decimal value.
+
+Sample Input:
+141.236
+
+Sample Output:
+141.24
+
+Code:
+#Write your code
+a=float(input())
+print("%.2f"%a)
+
+5.There are more than 20 cricket stadium allotted for the India's Biggest Cricket Tournament (IPL). All the stadiums are having different name. You will remember only one stadium name during the match only. So, you need to get the stadium name from the tournament management and print the stadium name for the players too.
+
+Input Format:
+Input value consists of a String.
+
+Output Format:
+Output value consists of a String.
+
+Sample Input:
+Wankhede Stadium
+
+Sample Output:
+Today's match will be held at Wankhede Stadium
+
+Code:
+#Write your code
+a=input()
+print("Today's match will be held at",a)
+
+
+6.It was in the 1997-98 season that Ranchi saw the rise of the Captain Cool in the interschool trophy between DAV Jawahar Vidhya Mandir and Kendriya School. It was in that match Dhoni convinced Banerjee to be the opener and justified it with a double century.
+
+Write a program to display the details of the match with Team name, Scores of the team and Overs played.
+
+Input and Output Format:
+
+Refer sample input and output for formatting specifications.
+
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Sample Input and Output:
+
+Team 1:
+
+Team Name:
+
+DAV Jawahar Vidhya Mandir
+
+Score:
+
+150
+
+Overs played:
+
+20
+
+Team 2:
+
+Team name:
+
+Kendriya School
+
+Score:
+
+110
+
+Overs played:
+
+18
+
+Match Details:
+
+Team 1:
+
+Name: DAV Jawahar Vidhya Mandir
+
+Score: 150
+
+Overs played: 20
+
+Team 2:
+
+Name:  Kendriya School
+
+Score: 110
+
+Overs played: 18
+
+Code:
+print("Team 1:")
+print("Team Name:")
+a=input()
+print("Score:")
+b=int(input())
+print("Overs played:")
+c=int(input())
+print("Team 2:")
+print("Team Name:")
+d=input()
+print("Score:")
+e=int(input())
+print("Overs played:")
+f=int(input())
+print("Match Details:")
+print("Team 1:")
+print("Name:",a)
+print("Score:",b)
+print("Overs played:",c)
+print("Team 2:")
+print("Name:",d)
+print("Score:",e)
+print("Overs played:",f)
+
+7.Keshab Ranjan Banerjee, a senior sports teacher at Dhoni's Jawahar Vidhya Mandhir School, spotted Dhoni when he was goal keeping for a football match.
+
+He got impressed by Dhoni's saves and thought of trying him out behind the stumps for the school's cricket team. In his first meet with Dhoni, Banerjee asked him his name and the game that Dhoni loves to play. Write a program to display Dhoni's reply.
+
+Input and Output Format:
+Refer the sample input and output for formatting specifications.
+All the text in bold corresponds to input and rest corresponds to output.
+
+Sample Input and Output:
+Name:
+Dhoni
+Game:
+Football
+My name is Dhoni and I love to play Football
+
+Code:
+#Write your code
+print("Name:")
+a=input()
+print("Game:")
+b=input()
+print("My name is", a + " and I love to play",b)
